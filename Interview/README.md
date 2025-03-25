@@ -20,7 +20,7 @@
 ## Interview Booking Process
 
 ### 1. Availability Check:
-Please begin by checking my availability in my calendar. To gain access, click on the [link](https://calendar.google.com/calendar/u/0?cid=bmlybWFscmVud2FsQGdtYWlsLmNvbQ) to request access or provide your Gmail ID. Once I grant you access, you can add my calendar to yours, and it will display in your time zone.
+Please begin by checking my availability in my calendar. To gain access, click on the [link](https://calendar.google.com/calendar/u/0?cid=bWFpbDJyb29wa2FudGhAZ21haWwuY29t) to request access or provide your Gmail ID. Once I grant you access, you can add my calendar to yours, and it will display in your time zone.
 
 If there are no available slots, I can refer you to one of my colleagues who best suits your requirements.
 
